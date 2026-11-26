@@ -1,5 +1,0 @@
-C:\Users\rohit\Downloads\SauceDemoTesting22
-
-cd .\SauceDemoTesting
-
-mvn clean test
